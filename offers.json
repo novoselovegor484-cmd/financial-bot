@@ -1,0 +1,126 @@
+{
+  "mfo": [
+    {
+      "id": "mfo_kviku",
+      "title": "Деньги на дом",
+      "image_url": "",
+      "rate": "",
+      "limit": "от 5 000 до 50 000 ₽",
+      "grace_period": "от 9 до 52 недель",
+      "cashback": "от 18 лет · гражданство РФ",
+      "ref_link": "https://t.fincpanetwork.ru/click/9436/864?erid=2W5zFJ91CL9"
+    },
+    {
+      "id": "mfo_moneyman",
+      "title": "Moneyman",
+      "image_url": "",
+      "rate": "от 0% до 0,8% в день",
+      "limit": "от 1 500 до 100 000 ₽",
+      "grace_period": "от 5 дней до 12 месяцев",
+      "cashback": "от 18 лет · гражданство РФ",
+      "ref_link": "https://t.fincpanetwork.ru/click/9436/101?erid=2W5zFGacKGm"
+    },
+    {
+      "id": "mfo_skela",
+      "title": "Skela Money",
+      "image_url": "",
+      "rate": "0,8% в день · первый займ 0%",
+      "limit": "от 1 000 до 100 000 ₽",
+      "grace_period": "от 1 до 365 дней",
+      "cashback": "от 18 лет · гражданство РФ",
+      "ref_link": "https://t.fincpanetwork.ru/click/9436/295?erid=2W5zFHDhRjW"
+    },
+    {
+      "id": "mfo_belka",
+      "title": "RubliOn",
+      "image_url": "",
+      "rate": "",
+      "limit": "",
+      "grace_period": "",
+      "cashback": "от 18 лет · гражданство РФ",
+      "ref_link": "https://t.fincpanetwork.ru/click/9436/867?erid=2W5zFGJG63K"
+    },
+    {
+      "id": "mfo_dengisrazu",
+      "title": "Деньги Сразу",
+      "image_url": "",
+      "rate": "0,8% в день · ПСК 292% годовых",
+      "limit": "от 1 000 до 100 000 ₽",
+      "grace_period": "от 16 до 180 дней",
+      "cashback": "от 18 лет · гражданство РФ",
+      "ref_link": "https://t.fincpanetwork.ru/click/9436/11?erid=2W5zFJg738c"
+    },
+    {
+      "id": "mfo_svoi",
+      "title": "Свои люди",
+      "image_url": "",
+      "rate": "0,8% в день",
+      "limit": "от 3 000 до 30 000 ₽",
+      "grace_period": "от 5 до 30 дней",
+      "cashback": "от 18 лет · гражданство РФ",
+      "ref_link": "https://t.fincpanetwork.ru/click/9436/232?erid=LjN8KC3ep"
+    },
+    {
+      "id": "mfo_turbozaim",
+      "title": "Турбозайм",
+      "image_url": "",
+      "rate": "0% первые 7 дней · далее 0,8% в день",
+      "limit": "от 3 000 до 100 000 ₽",
+      "grace_period": "от 7 до 168 дней",
+      "cashback": "от 18 лет · гражданство РФ",
+      "ref_link": "https://t.fincpanetwork.ru/click/9436/14?erid=2W5zFHvzYLZ"
+    },
+    {
+      "id": "mfo_abramovich",
+      "title": "У Абрамовича",
+      "image_url": "",
+      "rate": "—",
+      "limit": "—",
+      "grace_period": "—",
+      "cashback": "от 18 лет · гражданство РФ",
+      "ref_link": "https://t.fincpanetwork.ru/click/9436/217?erid=2W5zFHzB4Br"
+    },
+    {
+      "id": "mfo_finmoll",
+      "title": "ФинМолл",
+      "image_url": "",
+      "rate": "от 178% до 250% годовых",
+      "limit": "от 35 000 до 100 000 ₽",
+      "grace_period": "до 350 дней",
+      "cashback": "от 18 лет · гражданство РФ",
+      "ref_link": "https://t.fincpanetwork.ru/click/9436/54?erid=2W5zFGRMz5N"
+    },
+    {
+      "id": "mfo_centrozaim",
+      "title": "Centro-Zaim",
+      "image_url": "",
+      "rate": "—",
+      "limit": "от 1 000 до 75 000 ₽",
+      "grace_period": "от 1 до 30 дней",
+      "cashback": "от 18 лет · гражданство РФ",
+      "ref_link": "https://t.fincpanetwork.ru/click/9436/870?erid=2W5zFJdHfKw"
+    },
+    {
+      "id": "mfo_centrofinans",
+      "title": "Центрофинанс",
+      "image_url": "",
+      "rate": "0% первый займ · 0,8% повторный",
+      "limit": "от 1 000 до 50 000 ₽",
+      "grace_period": "от 1 до 180 дней",
+      "cashback": "от 18 лет · гражданство РФ",
+      "ref_link": "https://t.fincpanetwork.ru/click/9436/188?erid=2W5zFJBxEwS"
+    },
+    {
+      "id": "mfo_prostoy_vopros",
+      "title": "Простой вопрос",
+      "image_url": "",
+      "rate": "первый займ 0%",
+      "limit": "до 50 000 ₽",
+      "grace_period": "14 дней",
+      "cashback": "от 18 лет · гражданство РФ",
+      "ref_link": "https://t.fincpanetwork.ru/click/9436/865?erid=2W5zFJkaZcV"
+    }
+  ],
+  "debit": [],
+  "credit": []
+}
